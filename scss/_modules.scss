@@ -59,7 +59,8 @@
         color: $textColor2;
     }
     &--stroke{
-        border: 2px solid $mainColor1;
+        border: 1px solid $mainColor1;
+        background-color: $baseColor1;
         color: $mainColor1;
     }
 }
